@@ -1,2 +1,2 @@
 # 6d-pointers.github.io
-Personal Website
+Personal Website/Blog
